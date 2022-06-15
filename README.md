@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @snek5
-- 👀 I’m interested in maths
-- 🌱 I’m currently learning python and data science
-- 💞️ I’m looking to collaborate on any beginner level projects
+
 - 📫 azimanuar14@gmail.com
 
 <!---
